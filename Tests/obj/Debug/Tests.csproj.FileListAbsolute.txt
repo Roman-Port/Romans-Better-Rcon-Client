@@ -1,0 +1,10 @@
+c:\users\roman\source\repos\RomansRconClient2\Tests\bin\Debug\Tests.exe.config
+c:\users\roman\source\repos\RomansRconClient2\Tests\bin\Debug\Tests.exe
+c:\users\roman\source\repos\RomansRconClient2\Tests\bin\Debug\Tests.pdb
+c:\users\roman\source\repos\RomansRconClient2\Tests\bin\Debug\RomansRconClient2.dll
+c:\users\roman\source\repos\RomansRconClient2\Tests\bin\Debug\RomansRconClient2.pdb
+c:\users\roman\source\repos\RomansRconClient2\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+c:\users\roman\source\repos\RomansRconClient2\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\RomansRconClient2\Tests\obj\Debug\Tests.csproj.CopyComplete
+c:\users\roman\source\repos\RomansRconClient2\Tests\obj\Debug\Tests.exe
+c:\users\roman\source\repos\RomansRconClient2\Tests\obj\Debug\Tests.pdb

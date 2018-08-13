@@ -1,0 +1,6 @@
+c:\users\roman\source\repos\RomansRconClient2\RomansRconClient2\bin\Debug\RomansRconClient2.dll
+c:\users\roman\source\repos\RomansRconClient2\RomansRconClient2\bin\Debug\RomansRconClient2.pdb
+c:\users\roman\source\repos\RomansRconClient2\RomansRconClient2\obj\Debug\RomansRconClient2.csprojAssemblyReference.cache
+c:\users\roman\source\repos\RomansRconClient2\RomansRconClient2\obj\Debug\RomansRconClient2.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\RomansRconClient2\RomansRconClient2\obj\Debug\RomansRconClient2.dll
+c:\users\roman\source\repos\RomansRconClient2\RomansRconClient2\obj\Debug\RomansRconClient2.pdb
